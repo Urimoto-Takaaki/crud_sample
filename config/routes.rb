@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   #一覧表示
-resource : users
+resources :users
 end
